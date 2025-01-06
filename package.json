@@ -5,7 +5,8 @@
   "workspaces": [
     "ChatCompletationAPI",
     "ToolsAPI",
-    "Images"
+    "Images",
+    "Dalle3"
   ],
   "version": "1.0.0",
   "main": "index.js",
